@@ -1,0 +1,26 @@
+.todo-list-page {
+  padding: 1rem;
+}
+
+.todo-list-page h1 {
+  margin-bottom: 1rem;
+}
+
+.todo-list-page button {
+  margin-bottom: 1rem;
+}
+
+.todo-list-page table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.todo-list-page th,
+.todo-list-page td {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+.todo-list-page th {
+  background-color: #f4f4f4;
+}

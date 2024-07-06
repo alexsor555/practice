@@ -1,0 +1,14 @@
+.home {
+  padding: 1rem;
+}
+
+.widgets {
+  display: flex;
+  gap: 1rem;
+}
+
+.widget {
+  border: 1px solid #ddd;
+  padding: 1rem;
+  flex: 1;
+}
